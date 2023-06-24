@@ -1,4 +1,5 @@
-# Witness the daily trends in rental rates at my townhome complex
+[Here are the best rental rates by floor plan by day at my townhome complex.<sup>*</sup>](quick_scans.html)
 
-[Best rental rates by floor plan by day. This usually means selecting an 18 month lease](quick_scans.html)
+*<sub>This typically means you have to choose an 18 month lease.</sub>
+
 
